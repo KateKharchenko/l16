@@ -87,6 +87,7 @@ html, body {
 	max-height: 125px;
 	overflow: hidden;
 	font-weight: 700;
+	color: #0000ff;
 }
 
 .flex__item-author {
