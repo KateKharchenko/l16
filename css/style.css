@@ -78,6 +78,8 @@ html, body {
 	font-size: 13px;
 	max-height: 20px;
 	overflow: hidden;
+	text-align:right;
+	color: #F08080;
 }
 
 .flex__item-title {
